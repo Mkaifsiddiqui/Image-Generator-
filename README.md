@@ -18,7 +18,7 @@ Maven 3.6+ for building the project
 OpenAI API Key - You'll need a valid OpenAI API key to use the ChatGPT integration
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/learnwithiftekhar/spring-ai-chatgpt-demo.git
+git clone https://github.com/Mkaifsiddiqui/Image-Generator.git
 cd spring-ai-chatgpt-demo
 2. Set Up OpenAI API Key
 You need to set your OpenAI API key as an environment variable. You can do this in several ways:
